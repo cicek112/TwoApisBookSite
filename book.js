@@ -6,7 +6,7 @@ function resim(isim){
     const ayarlar = {
         method: 'GET',
         headers: {
-            'X-RapidAPI-Key': '0b406cd23dmsheeb54ea747466e6p1a36a1jsn0732039a16f4',
+            'X-RapidAPI-Key': '',
             'X-RapidAPI-Host': 'bing-image-search1.p.rapidapi.com'
         }
     };
@@ -27,7 +27,7 @@ const options = {
 };
 
 
-const apiKey="PSbkEY1f1PA3UvjZBpCaK9FxqSt5wlgf"
+const apiKey=""
 
 
 
